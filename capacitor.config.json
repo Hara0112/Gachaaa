@@ -1,0 +1,7 @@
+{
+  "appId": "com.thienkiep.game",
+  "appName": "Thiên Kiếp Lục",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "backgroundColor": "#07060d"
+}
